@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/DeepForge-Technology/.github/blob/master/profile/Logo/png/MainLogo256.png"></p>
 
-<h3 align="center">DeepForge - startup по разработке прикладного программного обеспечения.</h3>
+<h3 align="center">DeepForge - startup for application software development.</h3>
 
 ## 👥 Support
 - deepforge.technology@gmail.com
