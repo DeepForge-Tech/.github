@@ -1,4 +1,4 @@
-<p align="center"><img src="Logo/png/MainLogo256.png"></p>
+![Logo](Logo/png/MainLogo256.png)
 
 ### DeepForge - startup по разработке прикладного программного обеспечения.
 
