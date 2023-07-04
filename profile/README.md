@@ -1,4 +1,4 @@
-[Logo](https://github.com/DeepForge-Technology/.github/blob/master/profile/Logo/png/MainLogo256.png)
+![Logo](https://github.com/DeepForge-Technology/.github/blob/master/profile/Logo/png/MainLogo256.png)
 
 ### DeepForge - startup по разработке прикладного программного обеспечения.
 
