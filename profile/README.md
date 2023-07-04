@@ -1,4 +1,4 @@
-![Logo](Logo/png/MainLogo1512.png)
+![Logo](Logo/png/MainLogo512.png)
 
 ### DeepForge - startup по разработке прикладного программного обеспечения.
 
