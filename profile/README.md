@@ -2,10 +2,12 @@
 
 <h3 align="center">DeepForge - startup по разработке прикладного программного обеспечения.</h3>
 
-### Поддержка
+### Support
 - deepforge.technology@gmail.com
 
-<!-- ## Спонсортство -->
+## 💳 Sponsorship
+- https://boosty.to/deepforge/donate
+
 
 
 <!--
