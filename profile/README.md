@@ -3,22 +3,11 @@
 ### DeepForge - startup for application software development.
 
 ## 👥 Support
-<center>
-    <a href="mailto:deepforge.technology@gmail.com">
-        <img src="LogoServices/Gmail.png" width="48">
-    </a>
-    <a href="https://t.me/deepforge_toolset">
-        <img src="LogoServices/Telegram.png" width="40">
-    </a>
-</center>
+[Email](mailto:deepforge.technology@gmail.com)
+[Telegram](https://t.me/deepforge_toolset)
 
 ## 💳 Sponsorship
-
-<center>
-    <a href="https://boosty.to/deepforge/donate">
-        <img src="LogoServices/Boosty.png" width="128">
-    </a>
-</center>
+[Boosty](https://boosty.to/deepforge/donate)
 
 <!--
 
