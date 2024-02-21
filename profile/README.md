@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/DeepForge-Technology/.github/blob/master/profile/Logo/png/MainLogo256.png"></p>
+<p align="center"><img src="https://github.com/DeepForge-Technology/.github/blob/master/profile/Logo/png/MainLogo512.png"></p>
 
 ### DeepForge - startup for application software development.
 
